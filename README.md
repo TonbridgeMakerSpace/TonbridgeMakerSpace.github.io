@@ -1,2 +1,1 @@
-# TonbridgeMakerSpace.github.io
-Tonbridge Makerspace website 
+# Tonbridge Makerspace Website

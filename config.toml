@@ -2,3 +2,6 @@ baseURL = "https://TonbridgeMakerSpace.github.io/"
 languageCode = "en-gb"
 title = "Tonbridge Makerspace"
 theme = "ananke"
+
+[params]
+  site_logo = "images/TMS_Castle.svg"

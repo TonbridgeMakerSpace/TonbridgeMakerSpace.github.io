@@ -13,4 +13,4 @@ Come along to the Arduino Introduction Session and find out!
 
 Last Wednesday of the month, same time, same place:
 
-# 27th July, 2000,  Then Nelson Arms
+# 27th July, 2023,  Then Nelson Arms

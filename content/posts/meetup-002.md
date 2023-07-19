@@ -3,7 +3,7 @@ title: "Meetup July 2023"
 date: 2023-07-12 15:05:23
 ---
 
-![Arduino Introduction Session](../../static/images/TMS_Ard_Int.svg)
+![Arduino Introduction Session](../../images/TMS_Ard_Int.svg)
 
 ## Want to find out about Arduino?
 

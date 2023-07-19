@@ -9,12 +9,13 @@ date: 2023-07-12 15:05:23
 
 Come along to the Arduino Introduction Session and find out!
 
-
 # When? 
 
 Last Wednesday of the month, same time, same place:
 
-**27th July, 2023,  Then Nelson Arms, Tonbridge  - from 7.30pm
-**
+**27th July, 2023,  Then Nelson Arms, Tonbridge  - from 7.30pm**
+
+
+# All are welcome
 
 We are always happy to new faces, if you have an interest in tinkering/crafting/making/breaking things, then we would love to see you at one of our meetups! 

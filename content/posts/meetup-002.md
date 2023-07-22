@@ -17,7 +17,7 @@ Last Wednesday of the month, same time, same place:
 **27th July, 2023,  Then Nelson Arms, Tonbridge  - from 7.30pm**
 
 # What to bring?
-Bring your laptop and an Arduino compatible board, for instance Arduino Nano. All required cabling (Usb mini), etc.  
+Bring your laptop and an Arduino compatible board, for instance Arduino Nano. All required cabling (Usb micro), etc.  
 
 
 ## All are welcome

@@ -1,4 +1,4 @@
-baseURL = "https://TonbridgeMakerSpace.github.io/"
+baseURL = "https://tonbridgemaker.space/"
 languageCode = "en-gb"
 title = "Tonbridge Makerspace"
 theme = "ananke"

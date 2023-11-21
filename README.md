@@ -4,12 +4,12 @@ The [TonbridgeMaker.space](https://tonbridgemaker.space/) website.
 
 ## Tonbridge Makerspace
 
-A volunteer-led community makerspace in Tonbridge (Kent, UK).
+Volunteer-led community makerspace in Tonbridge (Kent, UK).
 
-Build fun projects and get together to collaborate and learn.
+Build projects, get together, collaborate and learn.
 
 - 3D printing and modelling
-- Electronics, electricals and soldering
+- Electronics and soldering
 - Coding and software (Python, JavaScript, HTML)
 - Eco projects and reusing / recycling / repairing
 - Electric vehicles and low carbon tech
@@ -32,3 +32,5 @@ Start by coming along to an event (details on TonbridgeMaker.space or meetup.com
 Typically the last Wednesday evening of the month.
 
 Next event: Wed 29th Nov '23 - 7 PM - The Angel Centre
+
+[tonbridgemakerspace on instagram](https://www.instagram.com/tonbridgemakerspace/)

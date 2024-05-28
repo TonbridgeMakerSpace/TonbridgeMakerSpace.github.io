@@ -1,9 +1,9 @@
 ---
-title: "About Us -  - Tonbridge Makerspace"
+title: "About Us"
 description: "Who we and what we do."
 menu:
   main:
-    weight: 1
+    weight: 2
 ---
 
 # About Tonbridge Maker Space

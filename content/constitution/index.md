@@ -1,9 +1,9 @@
 ---
-title: "Constitution - Tonbridge Makerspace"
+title: "Constitution"
 description: "Our rules"
 menu:
   main:
-    weight: 2
+    weight: 3
 ---
 
 # Tonbridge Makerspace Constitution

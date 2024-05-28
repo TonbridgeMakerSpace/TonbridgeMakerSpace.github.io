@@ -1,4 +1,8 @@
 ---
+title: "Home"
+menu:
+  main:
+    weight: 1
 featured_image: "images/TMS_Text.svg"
 ---
 
@@ -9,3 +13,7 @@ We are a [makerspace](https://www.gov.uk/government/publications/libraries-and-m
 Come to an event ([RSVP on meetup.com](https://www.meetup.com/tonbridge-maker-space-meetup/)).
 
 Follow [tonbridgemakerspace on instagram](https://www.instagram.com/tonbridgemakerspace/).
+
+
+- [About us](/about-us/)
+- [Constitution](/constitution/)

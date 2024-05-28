@@ -3,6 +3,7 @@ languageCode = "en-gb"
 title = "Tonbridge Makerspace"
 theme = "ananke"
 summaryLength = 42
+SectionPagesMenu = "main"
 
 [params]
   site_logo = "images/TMS_Castle.svg"

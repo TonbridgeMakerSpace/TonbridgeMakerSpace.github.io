@@ -1,3 +1,11 @@
+---
+title: "Constitution - Tonbridge Makerspace"
+description: "Our rules"
+menu:
+  main:
+    weight: 2
+---
+
 # Tonbridge Makerspace Constitution
 
 ## Article I: Name and Purpose

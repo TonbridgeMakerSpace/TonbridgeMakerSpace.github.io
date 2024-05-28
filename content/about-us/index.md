@@ -23,7 +23,7 @@ The initiative was first formed in 2022 by the 6 founding members, after discove
 
 ## When do we meet?
 
-Meetings have been organised via Meetup.com and we have alternated between a “maker” meeting at the Angel Centre, Tonbridge, and a “social” meeting every two weeks at Fuggles Beer Cafe. Before organising via meetup, meetings were ad-hoc and mostly social. 
+Meetings have been organised via [Meetup.com](https://www.meetup.com/tonbridge-maker-space/) and we have alternated between a “maker” meeting at the Angel Centre, Tonbridge, and a “social” meeting two weeks afterwards at Fuggles Beer Cafe. Before organising via meetup, meetings were ad-hoc and mostly social. 
 
 ## What is the plan for the future?
 

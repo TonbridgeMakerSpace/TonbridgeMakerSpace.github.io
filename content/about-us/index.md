@@ -8,7 +8,7 @@ menu:
 
 # About Tonbridge Maker Space
 
-Tonbridge Makespace is where member come together to make things, meet people, learn, socialise, and collaborate. A place to make your own projects a reality or help others with theirs.
+Tonbridge Makerspace is where members come together to make things, meet people, learn, socialise, and collaborate. A place to make your own projects a reality or help others with theirs.
 
 We believe in bringing people together in a space, where they can explore their craft, with like minded makers, and feel safe to explore new ideas and find new interests. 
 
@@ -28,3 +28,4 @@ Meetings have been organised via Meetup.com and we have alternated between a “
 ## What is the plan for the future?
 
 Our goal is to find a permanent space, with a wide variety of resources made available to our members.  
+	

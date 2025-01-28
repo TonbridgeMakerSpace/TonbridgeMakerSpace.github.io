@@ -23,7 +23,7 @@ The initiative was first formed in 2022 by the 6 founding members, after discove
 
 ## When do we meet?
 
-Meetings are organised via [Meetup.com](https://www.meetup.com/tonbridge-maker-space/), so check there for our upcoming events.  We meet at the [Manor Grove Hall]](https://tonbridgemakerspace.com/find-us/).
+Meetings are organised via [Meetup.com](https://www.meetup.com/tonbridge-maker-space/), so check there for our upcoming events.  We meet at the [Manor Grove Hall](https://tonbridgemakerspace.com/find-us/).
 
 ## What is the plan for the future?
 

@@ -7,3 +7,4 @@ SectionPagesMenu = "main"
 
 [params]
   site_logo = "images/TMS_Castle.svg"
+  ananke_socials = [{name = "instagram", url = "https://www.instagram.com/tonbridgemakerspace/"}, {name = "rss", url = "/index.xml"}]

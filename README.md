@@ -1,6 +1,6 @@
 # Tonbridge Makerspace Website
 
-The [TonbridgeMaker.space](https://tonbridgemaker.space/) website.
+The [TonbridgeMakerSpace.com](https://tonbridgemakerspace.com/) website.
 
 ## Tonbridge Makerspace
 
